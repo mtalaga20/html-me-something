@@ -1,0 +1,51 @@
+<style>
+
+	body{
+		background-color: green;
+	}
+	h1{
+		color: green;
+		margin-top: 50px;
+	}
+	h3{
+		margin-top: 50px;
+		margin-right: 80px;
+		margin-left: 80px;
+	}
+	
+	p{
+		font-size: 17px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-right: 80px;
+		margin-left: 80px;
+		padding-top: 10px;	
+  		padding-right: 30px;
+  		padding-bottom: 10px;
+  		padding-left: 80px;
+	}
+	
+	p.author{
+		font-style: italic;
+	}
+	
+	div {
+		padding: 25px 50px;
+	}
+	
+	.content{
+		font-size: 19px;
+		background-color: red;
+	}
+	
+	img {
+		border-radius: 8px;
+		border: 1px solid #ddd;
+	}
+	
+	#credit{
+		color: grey;
+	}
+	
+	
+</style>
